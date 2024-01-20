@@ -2,7 +2,7 @@
 
 **`Aspiring Software Developer`** 
 
-I've become pasionate about the process of software development and computer programming eversince my first encounter with the subject. The process of learnign a new language's syntax, its capabilites, and the feeling of a working project is quite simply addicting. Its amazing what your computer can do when you understand its language! Let's build amazing projects together! 
+I've developed a deep passion for software development and computer programming ever since my initial foray into the field. The journey of mastering a new programming language, exploring its capabilities, and experiencing the thrill of a successfully executed project is utterly captivating. It's astonishing to witness the potential of what your computer can achieve once you speak its language. Let's collaborate and create incredible projects together! 
 
 <!--
 **REAPERali00/REAPERali00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
