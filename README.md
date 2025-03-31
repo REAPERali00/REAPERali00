@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=CBDEF7&width=435&lines=+Backend+|+Java+|+JS+|+Flutter+|+React)](https://git.io/typing-svg)
 
-I am a Recent Honors grad from the **CET** program, A **Backend Developer** passionate about software and all things computer related!
+I am an Honors grad from the **CET** program, A **Backend Developer** passionate about software and all things computer related!
 
-- 📚 I am currently working on learning Front end Development
+- 📚 I am currently working on Front end Development
 - 🤓 I recently switched to Linux, and I have been loving it (I use _arch_, btw)
 - 🧑‍💻 I Have more than 1 year of experience in Backend Development
 - 🥇 I enjoy learning new technologies and skill sets
