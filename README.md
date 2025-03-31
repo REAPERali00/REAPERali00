@@ -44,4 +44,4 @@ I am a Recent Honors grad from the **CET** program, A **Backend Developer** pass
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-jadidi/) [![Portfolio](https://img.shields.io/badge/Portfolio-8957e5?style=flat&logo=awesome-lists&logoColor=white)](https://reaperali00.github.io/Portfolio/) [![Contact](https://img.shields.io/badge/Contact-238636?style=flat&logo=gmail&logoColor=white)](jadi0002@algonquinlive.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-jadidi/) [![Portfolio](https://img.shields.io/badge/Portfolio-8957e5?style=flat&logo=awesome-lists&logoColor=white)](https://reaperali00.github.io/Portfolio/) [![Contact](https://img.shields.io/badge/Contact-238636?style=flat&logo=gmail&logoColor=white)](https://reaperali00.github.io/Portfolio/#contact)
