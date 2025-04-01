@@ -5,8 +5,8 @@
 I am an Honors grad from the **CET** program, A **Backend Developer** passionate about software and all things computer related!
 
 - 📚 I am currently working on Front end Development
-- 🤓 I recently switched to Linux, and I have been loving it (I use _arch_, btw)
-- 🧑‍💻 I Have more than 1 year of experience in Backend Development
+- 🤓 I am a huge linux enthusiast (I use _arch_, btw)
+- 🧑‍💻 I Have experience in Backend Development
 - 🥇 I enjoy learning new technologies and skill sets
 
 <br>
